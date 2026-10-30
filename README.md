@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-arcreport-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://arcreport.ai/
+ArcReport AI provides a platform that evaluates whether AI agents can successfully navigate e‑commerce checkout flows. By running automated pre‑checks across thousands of online stores, it offers insights into agent capabilities, highlights friction points, and helps developers improve AI‑driven shopping experiences. The service is free, open‑source, and continuously updated with new store data and methodology documentation.
+
+**Areas:** Company · AI · E-commerce · Analytics · Checkout
+
+## arcreport-ai on APIs.io
+
+Everything profiled for arcreport-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arcreport-ai/](https://apis.io/providers/arcreport-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ARC public API](https://apis.io/apis/arcreport-ai/arc-public-api/) — Free, no‑login API for the ARC open agentic commerce benchmark.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [arcreport-ai API Rules](https://apis.io/rules/arcreport-ai/arcreport-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Arcreport Ai Domain Security](https://apis.io/security/arcreport-ai/arcreport-ai-domain-security/)
+- [Arcreport Ai Vulnerability Disclosure](https://apis.io/security/arcreport-ai/arcreport-ai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://arcreport.ai/)
+- [Documentation](https://www.arcreport.ai/docs/precheck)
+- [Getting started](https://www.arcreport.ai/docs/quickstart)
+- [Pricing](https://www.arcreport.ai/pricing)
+- [Changelog](https://www.arcreport.ai/methodology/changelog)
+- [Blog](https://www.arcreport.ai/blog)
+- [Terms of service](https://www.arcreport.ai/terms)
+- [Privacy policy](https://www.arcreport.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 36.7** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 70.9 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 44.7 |
+
+**Agent readiness 25.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 25.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/arcreport-ai/](https://apis.io/providers/arcreport-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for arcreport-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/arcreport-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
